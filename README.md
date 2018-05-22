@@ -9,4 +9,7 @@ Creating a folder:
 mkdir
 
 Change directory:   
-cd 
+cd
+
+Creating a file:
+type NUL >
